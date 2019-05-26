@@ -1,0 +1,244 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-spacing\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Carlos/Documents/GitHub/Django/pd110/src/pd110/__init__.py",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Carlos/Desktop/pd110",
+		"/C/Users/Carlos/Desktop/pd110/src"
+	],
+	"file_history":
+	[
+		"/E/ASIR/LM/Año_2/m01.py",
+		"/C/Users/Carlos/Desktop/get-pip.py.txt",
+		"/E/ASIR/LM/Año_2/Matriz/Matriz.py",
+		"/E/ASIR/LM/Año_2/Matriz/02.py",
+		"/E/ASIR/LM/Año_2/Piramide/piramide.py.txt",
+		"/E/ASIR/LM/Año_2/Matriz.py",
+		"/C/Users/Carlos/Downloads/style.css",
+		"/C/Users/Carlos/Desktop/Página/index (1).html",
+		"/E/ASIR/LM/Año_2/Ejercicios/checkio/checkio02.py",
+		"/E/ASIR/LM/Año_2/ejercicio_puntuable/css/archivo.css",
+		"/E/ASIR/LM/Año_2/ejercicio_puntuable/index.html",
+		"/C/Users/Carlos/Downloads/index (1).html",
+		"/E/ASIR/GBD/Año 2/Arrancar-base/1.sql",
+		"/E/ASIR/LM/Año_2/Ejercicios/colecciones/colecciones03.py",
+		"/E/ASIR/PAR/Año 2/Pagina/CSS/pagina.css~",
+		"/E/ASIR/PAR/Año 2/Pagina/index.html",
+		"/E/ASIR/LM/Año_2/Ejercicios/colecciones/colecciones01.py",
+		"/E/ASIR/LM/Año_2/Ejercicios/colecciones/colecciones02.py",
+		"/E/ASIR/LM/Año_2/Ejercicios/colecciones/colecciones09.py",
+		"/E/ASIR/LM/Año_2/Ejercicios/colecciones/colecciones10.py",
+		"/E/ASIR/PAR/Año 2/Pagina/1evaluacionpar.html",
+		"/E/goles/goles.py",
+		"/C/Users/Carlos/Desktop/ASIR/PAR/Año 2/Pagina/index.html",
+		"/C/Users/Carlos/Desktop/ASIR/PAR/Año 2/Pagina/CSS/pagina.css~",
+		"/E/ASIR/PAR/Año 2/Pagina/CSS/pagina.css",
+		"/E/ASIR/PAR/Año 2/Pagina/par.html",
+		"/E/ASIR/PAR/Año 2/Pagina/Index.html",
+		"/E/ASIR/PAR/Año 2/Pagina/par.html.html",
+		"/C/Users/Carlos/Desktop/Página de prueba/index.html",
+		"/E/ASIR/LM/Cristian/v6.9 con banderas y contador, formularios personalizados, bombas y sonido/css/mambo.css~",
+		"/E/ASIR/LM/Cristian/v6.9 con banderas y contador, formularios personalizados, bombas y sonido/mambo para comprobar.html",
+		"/E/ASIR/LM/Cristian/v6.9 con banderas y contador, formularios personalizados, bombas y sonido/Mambo para jugar.html",
+		"/C/Users/Carlos/Desktop/ASIR/PAR/Año 2/Pagina/Index.html",
+		"/C/Users/Carlos/Downloads/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Carlos/Documents/GitHub/Django/pd110/src/pd110/__init__.py",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pd110.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -22,4 +22,5 @@ from boletin import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     url(r'^$', views.inicio, name='inicio')
+    url(r'^contact/$', views.contact, name='contact')
 ]	

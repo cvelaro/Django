@@ -20,6 +20,7 @@ class RegModelForm(forms.ModelForm):
     #validaciones
     return nombre	
 
-class RegForm(forms.Form):
-	nombre = forms.CharField(max_length=50)
+class ConactForm(forms.Form):
+	nombre = forms.CharField(required=False)
 	email = forms.EmailField()
+    mensaje = forms.CharField(widget=forms.Textarea)
